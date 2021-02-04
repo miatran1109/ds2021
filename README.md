@@ -11,6 +11,9 @@ USTH ICT 2021 Distributed Systems
 Group Info
 =======================
 
-* Name 1 (ID1)
-* Name 2 (ID2)
+* Nguyễn Huy Anh	(BI9-038)
+* Đoàn Bá Cường	(BI9-062)
+* Trần Thị Hương Giang	(BI9-085)
+* Trần Ngọc Mai	(BI9-160)
+* Nguyễn Thị Lan Anh	(BI9-244)
 
